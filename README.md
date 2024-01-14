@@ -13,6 +13,6 @@ The model has been validated for english characters and digits.
 Dataset put-to-use for english is ‘EMNIST_ByClass’ [1]. 
 The model achieved 87% accuracy for EMNIST_ByClass dataset.
 
-<h4> 2. EMNIST Byclass </h4>
+<h4>  EMNIST Byclass </h4>
 Train Dataset: https://drive.google.com/file/d/1kGfJJPWAi6L7sJgFjBiV-qoTkPPDv5-J/view?usp=sharing <br>
 Test Dataset: https://drive.google.com/file/d/1AlnTmYPT_13pkAR7H8gfliMJkbw9gShk/view?usp=sharing <br>
